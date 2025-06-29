@@ -1,0 +1,19 @@
+{
+  "name": "pos-automacao-testes",
+  "version": "1.0.0",
+  "description": "Aula de programação para automação de testes",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^11.5.0"
+  },
+  "dependencies": {
+    "yarn": "^1.22.22"
+  }
+}
