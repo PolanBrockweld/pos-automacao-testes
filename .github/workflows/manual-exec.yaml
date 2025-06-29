@@ -22,5 +22,5 @@ name: Instalando Yarn
       run: yarn install
 
       
-name: Rodar testes com Jest
+      name: Rodar testes com Jest
       run: yarn test --passWithNoTests
